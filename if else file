@@ -1,0 +1,4 @@
+if a = 1
+x=1
+elseif a = 2
+x=2
